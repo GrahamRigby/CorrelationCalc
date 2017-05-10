@@ -5,14 +5,11 @@ creates additional processes and sets up a pipe for interprocessor communication
 
 Data files must be formatted such that there are two integers on each row separated by a single space.
 EX:
+
 12 20
-
 13 15
-
 16 20
-
 333 2000
-
 54 10
 
 Running:
