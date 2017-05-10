@@ -5,12 +5,12 @@ creates additional processes and sets up a pipe for interprocessor communication
 
 Data files must be formatted such that there are two integers on each row separated by a single space.
 EX:
-
-12 20/n
-13 15/n
-16 20/n
-333 2000/n
-54 10/n
+<br />
+12 20<br />
+13 15<br />
+16 20<br />
+333 2000<br />
+54 10<br />
 
 Running:
 in your console run the makefile: make
